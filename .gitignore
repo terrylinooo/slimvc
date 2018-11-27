@@ -1,0 +1,5 @@
+/vendor/
+/templates_cache/*
+!/templates_cache/README.md
+/logs/*
+!/logs/README.md
